@@ -1,0 +1,14 @@
+{
+  "name": "montyhall",
+  "version": "1.0.0",
+  "description": "A JS implementation of the [Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem).  Maybe not the most elegant.  But using ES6.",
+  "main": "letsMakeADeal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.1.5"
+  }
+}
